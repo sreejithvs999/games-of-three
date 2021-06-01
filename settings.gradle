@@ -1,0 +1,5 @@
+rootProject.name = 'game-of-three'
+include 'game-service'
+include 'player1'
+include 'player2'
+
